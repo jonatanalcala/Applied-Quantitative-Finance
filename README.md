@@ -21,7 +21,7 @@ A comprehensive **Python-based Quantitative Finance Tools/Analysis**, covering *
 - Lists & Arrays (lists and arrays to handle financial time series data, stock prices, and portfolio holdings)
 - Pandas and Financial Data Analysis (financial data analysis and fetching real market data using yfinance)
 - Financial Data Visualization (professional financial charts and visualizations using matplotlib and seaborn)
-- Data Visualization with Matplotlib and Seaborn (data visualization techniques using Python's powerful plotting libraries)\
+- Data Visualization with Matplotlib and Seaborn (data visualization techniques using Python's powerful plotting libraries)
 - Time Series Analysis in Finance (Trend analysis to advanced forecasting methods)
 - Portfolio Optimization (Modern Portfolio Theory (MPT) and optimize investment portfolios using Python)
 - Algorithmic Trading (develop, implement, and backtest algorithmic trading strategies using Python)
