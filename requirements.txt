@@ -1,0 +1,34 @@
+# Core Scientific & Data Handling Libraries
+pandas
+numpy
+numpy-financial
+
+# Financial Data APIs
+yfinance
+fredapi
+
+# Data Visualization
+matplotlib
+seaborn
+mplfinance
+plotly
+
+# Time Series Analysis & Forecasting
+statsmodels
+scipy
+
+# Optimization & Portfolio Analysis
+cvxpy
+cvxopt
+
+# Machine Learning & AI (for advanced modeling)
+scikit-learn
+tensorflow
+torch
+
+# Web Scraping (Optional for extracting financial data)
+beautifulsoup4
+requests
+
+# Interactive Widgets (For Jupyter Notebooks)
+ipywidgets
