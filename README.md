@@ -9,8 +9,6 @@ A comprehensive **Python-based Quantitative Finance Tools/Analysis**, covering *
 - **Portfolio Optimization:** Risk-return modeling and Efficient Frontier visualization
 - **Algorithmic Trading:** Developing and backtesting trading strategies
 - **Financial Data Visualization:** Using Matplotlib & Seaborn for market insights
-- **Machine Learning for Finance:** Feature engineering & predictive modeling
-- **Large Language Models (LLMs) & Prompt Engineering:** Applications in finance
 
 ---
 
